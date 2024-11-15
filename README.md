@@ -4,6 +4,7 @@ A stunning, modern pricing page component built with React, TypeScript, and Tail
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
+![recording](https://github.com/user-attachments/assets/4c683db8-1b7d-4177-8276-d5f2e40ae350)
 
 ## ✨ Features
 
