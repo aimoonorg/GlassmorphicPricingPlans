@@ -5,6 +5,9 @@
 [English](./README.md) | [中文](./README.zh-CN.md)
 
 ![玻璃态定价组件预览](https://source.unsplash.com/random/1200x630/?ui,glass,modern)
+![recording](https://github.com/user-attachments/assets/fb8d2c4d-7866-4c1d-abdb-3bb803137c05)
+
+
 
 ## ✨ 特性
 
