@@ -1,0 +1,40 @@
+.glass-card {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.pricing-card-hobby {
+  background: linear-gradient(165deg, rgba(30, 58, 138, 0.6) 0%, rgba(29, 78, 216, 0.4) 100%);
+}
+
+.pricing-card-pro {
+  background: linear-gradient(165deg, rgba(88, 28, 135, 0.7) 0%, rgba(124, 58, 237, 0.5) 100%);
+}
+
+.pricing-card-enterprise {
+  background: linear-gradient(165deg, rgba(6, 78, 59, 0.6) 0%, rgba(5, 150, 105, 0.4) 100%);
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Enhanced glassmorphism effects */
+.glass-effect {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+.glass-card-hover {
+  transition: all 0.3s ease-in-out;
+}
+
+.glass-card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.45);
+}
