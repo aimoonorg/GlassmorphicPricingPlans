@@ -4,7 +4,6 @@ A stunning, modern pricing page component built with React, TypeScript, and Tail
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
-![Glassmorphic Pricing Preview](https://source.unsplash.com/random/1200x630/?ui,glass,modern)
 
 ## ✨ Features
 
